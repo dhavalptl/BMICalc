@@ -1,7 +1,7 @@
 # BMICalc
 Body Mass Index Calculator
 
-![Screenshot](calc.png)
+![calc](https://cloud.githubusercontent.com/assets/18342519/22626526/7bb0930a-ebd5-11e6-816a-cb84334838aa.png)
 
 ##BMI Calculator with React Native (ios) and mobx
 
